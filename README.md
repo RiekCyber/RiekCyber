@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RiekCyber
-- 👀 I’m interested in Network Operations from Linux
+- 👀 I’m interested in Network Operations
 - 🌱 I’m currently learning at the DevNet dashboard
 - 💞️ I’m looking to collaborate on Cisco APIs
 - 📫 Reach me at https://linkedin.com/in/ericsebert 
